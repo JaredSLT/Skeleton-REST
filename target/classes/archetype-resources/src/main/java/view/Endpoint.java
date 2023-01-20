@@ -1,4 +1,4 @@
-package tech.tresearchgroup.skeleton.view;
+package ${package};
 
 import io.activej.http.HttpMethod;
 import io.activej.http.HttpResponse;

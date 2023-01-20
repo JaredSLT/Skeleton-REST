@@ -1,4 +1,4 @@
-package tech.tresearchgroup.skeleton;
+package ${package};
 
 import io.activej.http.AsyncServlet;
 import io.activej.http.RoutingServlet;
